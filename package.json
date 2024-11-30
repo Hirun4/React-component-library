@@ -5,7 +5,7 @@
   "scripts": {
     "rollup": "rollup -c"
   },
-  "author": "Alex",
+  "author": "Hirun",
   "license": "ISC",
   "devDependencies": {
     "@rollup/plugin-commonjs": "^21.0.1",
